@@ -6,7 +6,7 @@ public class C01_HelloWorld {
 
        // java'da konsolda birsey yazdirmak istersek
        // sout yazip enter'a basariz
-       // parantez icinde " " arasina ne yazarsak, java onu konsolda yazdirir.
+       // parantez icinde " " arasina ne yazarsak, java onu konsolda yazdirir
 
         System.out.println( "Hello World" );
 
