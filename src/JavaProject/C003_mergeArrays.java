@@ -1,6 +1,6 @@
 package JavaProject;
 
-public class C03_mergeArrays {
+public class C003_mergeArrays {
 
 
     /*48-----

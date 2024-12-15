@@ -3,7 +3,7 @@ package JavaProject;
 import java.util.Random;
 import java.util.Scanner;
 
-public class C02_kelimeTahminOyunu {
+public class C002_wordGuessingGame {
     public static void main(String[] args) {
 
         /*

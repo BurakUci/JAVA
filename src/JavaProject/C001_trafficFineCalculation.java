@@ -2,7 +2,7 @@ package JavaProject;
 
 import java.util.Scanner;
 
-public class C01_trafikCezasıHesaplama {
+public class C001_trafficFineCalculation {
     public static void main(String[] args) {
 
         /* Problem tanimi : Kulanicidan aracinin hizini aliniz Trafik cezasinin
